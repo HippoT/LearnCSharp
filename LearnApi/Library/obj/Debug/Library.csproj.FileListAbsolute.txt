@@ -1,6 +1,0 @@
-D:\VisualStudio\LearnCS\LearnApi\Library\bin\Debug\Library.exe.config
-D:\VisualStudio\LearnCS\LearnApi\Library\bin\Debug\Library.exe
-D:\VisualStudio\LearnCS\LearnApi\Library\bin\Debug\Library.pdb
-D:\VisualStudio\LearnCS\LearnApi\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
-D:\VisualStudio\LearnCS\LearnApi\Library\obj\Debug\Library.exe
-D:\VisualStudio\LearnCS\LearnApi\Library\obj\Debug\Library.pdb
